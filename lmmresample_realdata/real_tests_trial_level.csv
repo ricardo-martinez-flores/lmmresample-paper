@@ -1,0 +1,20 @@
+"analysis","method","p","note"
+"stimulus","wald_simple",7.09383685563127e-118,NA
+"stimulus","wald_full",1.35724445199493e-20,NA
+"stimulus","satt_full",1.18764082867949e-13,NA
+"stimulus","perm_simple",2e-04,NA
+"stimulus","perm_full",2e-04,NA
+"stimulus","perm_simple",2e-04,"seed 2"
+"stimulus","two_stage",7.69090938010146e-14,NA
+"cohort_x_stimulus","wald_simple",0.586170018709632,NA
+"cohort_x_stimulus","wald_full",0.883819842387836,NA
+"cohort_x_stimulus","satt_full",0.884272579756727,NA
+"cohort_x_stimulus","perm_simple",0.8354,NA
+"cohort_x_stimulus","perm_full",0.8816,NA
+"cohort_x_stimulus","two_stage",0.968692693018734,NA
+"stimulus_adjusted_order","wald_simple",7.67813525405158e-118,NA
+"stimulus_adjusted_order","wald_full",1.35568013577557e-20,NA
+"stimulus_adjusted_order","satt_full",1.18801606067811e-13,NA
+"stimulus_adjusted_order","perm_simple",2e-04,NA
+"stimulus_adjusted_order","perm_full",2e-04,NA
+"stimulus_adjusted_order","two_stage",3.42479838419468e-13,NA

@@ -1,0 +1,9 @@
+"analysis","seconds","resamples","minutes_B4999","rows","participants","workers"
+"lmer fit, intercept-only model",0.596000000019558,NA,NA,119780,67,60
+"lmer fit, maximal model",1.11199999996461,NA,NA,119780,67,60
+"lmer fit, complete time-course model",116.810999999987,NA,NA,119780,67,60
+"GAMM fit (bam), without and with AR(1)",20.1799999999348,NA,NA,119780,67,60
+"perm_test, intercept-only model",5.86199999996461,99,4.9,119780,67,60
+"perm_test, maximal model",11.484999999986,99,9.7,119780,67,60
+"perm_test, condition x time (intercept-only model)",25.9590000000317,99,21.8,119780,67,60
+"boot_ci, case resampling (maximal model)",10.7519999999786,99,9,119780,67,60

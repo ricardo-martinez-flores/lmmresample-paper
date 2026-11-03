@@ -1,0 +1,3 @@
+"scenario","n","flagged_pct","ci_low","ci_high","median_relative"
+"confound",200,50,42.87,57.13,-0.2997
+"no_confound",200,0,0,1.83,-0.0046

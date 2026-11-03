@@ -1,0 +1,177 @@
+"cell","job","data_key","seed_base","replicates","settings","files_done","files_expected"
+"single_within_base_e000","single","single_within_base_e000",161688000,1000,"design=within; variant=base; effect=0; B=199",200,200
+"single_within_base_e015","single","single_within_base_e015",161840000,200,"design=within; variant=base; effect=0.015; B=199",40,40
+"single_within_base_e030","single","single_within_base_e030",162084000,200,"design=within; variant=base; effect=0.03; B=199",40,40
+"single_within_base_e045","single","single_within_base_e045",162236000,200,"design=within; variant=base; effect=0.045; B=199",40,40
+"single_within_n12_e000","single","single_within_n12_e000",1483044000,300,"design=within; variant=n12; effect=0; B=199",60,60
+"single_within_n12_e030","single","single_within_n12_e030",1483440000,200,"design=within; variant=n12; effect=0.03; B=199",40,40
+"single_within_n60_e000","single","single_within_n60_e000",1299992000,300,"design=within; variant=n60; effect=0; B=199",60,60
+"single_within_n60_e030","single","single_within_n60_e030",1300388000,200,"design=within; variant=n60; effect=0.03; B=199",40,40
+"single_within_ar05_e000","single","single_within_ar05_e000",1860784000,300,"design=within; variant=ar05; effect=0; B=199",60,60
+"single_within_ar05_e030","single","single_within_ar05_e030",1861180000,200,"design=within; variant=ar05; effect=0.03; B=199",40,40
+"single_within_normal_e000","single","single_within_normal_e000",1236572000,300,"design=within; variant=normal; effect=0; B=199",60,60
+"single_within_normal_e030","single","single_within_normal_e030",1236968000,200,"design=within; variant=normal; effect=0.03; B=199",40,40
+"single_within_balanced_e000","single","single_within_balanced_e000",861828000,300,"design=within; variant=balanced; effect=0; B=199",60,60
+"single_within_balanced_e030","single","single_within_balanced_e030",862224000,200,"design=within; variant=balanced; effect=0.03; B=199",40,40
+"single_within_sparse_e000","single","single_within_sparse_e000",1195120000,300,"design=within; variant=sparse; effect=0; B=199",60,60
+"single_within_sparse_e030","single","single_within_sparse_e030",1195516000,200,"design=within; variant=sparse; effect=0.03; B=199",40,40
+"single_within_skewed_e000","single","single_within_skewed_e000",1917116000,300,"design=within; variant=skewed; effect=0; B=199",60,60
+"single_within_skewed_e030","single","single_within_skewed_e030",1917512000,200,"design=within; variant=skewed; effect=0.03; B=199",40,40
+"single_within_trial_ar_e000","single","single_within_trial_ar_e000",1919912000,300,"design=within; variant=trial_ar; effect=0; B=199",60,60
+"single_within_trial_ar_e030","single","single_within_trial_ar_e030",1920308000,200,"design=within; variant=trial_ar; effect=0.03; B=199",40,40
+"single_between_base_e000","single","single_between_base_e000",951700000,500,"design=between; variant=base; effect=0; B=199",100,100
+"single_between_base_e020","single","single_between_base_e020",951964000,200,"design=between; variant=base; effect=0.02; B=199",40,40
+"single_between_base_e040","single","single_between_base_e040",952228000,200,"design=between; variant=base; effect=0.04; B=199",40,40
+"single_between_base_e060","single","single_between_base_e060",952492000,200,"design=between; variant=base; effect=0.06; B=199",40,40
+"single_between_n12_e000","single","single_between_n12_e000",1203948000,300,"design=between; variant=n12; effect=0; B=199",60,60
+"single_between_n12_e040","single","single_between_n12_e040",1204476000,200,"design=between; variant=n12; effect=0.04; B=199",40,40
+"single_between_n60_e000","single","single_between_n60_e000",1020896000,300,"design=between; variant=n60; effect=0; B=199",60,60
+"single_between_n60_e040","single","single_between_n60_e040",1021424000,200,"design=between; variant=n60; effect=0.04; B=199",40,40
+"single_between_ar05_e000","single","single_between_ar05_e000",650760000,300,"design=between; variant=ar05; effect=0; B=199",60,60
+"single_between_ar05_e040","single","single_between_ar05_e040",651288000,200,"design=between; variant=ar05; effect=0.04; B=199",40,40
+"single_between_normal_e000","single","single_between_normal_e000",1544160000,300,"design=between; variant=normal; effect=0; B=199",60,60
+"single_between_normal_e040","single","single_between_normal_e040",1544688000,200,"design=between; variant=normal; effect=0.04; B=199",40,40
+"single_between_balanced_e000","single","single_between_balanced_e000",1819148000,300,"design=between; variant=balanced; effect=0; B=199",60,60
+"single_between_balanced_e040","single","single_between_balanced_e040",1819676000,200,"design=between; variant=balanced; effect=0.04; B=199",40,40
+"single_between_skewed_e000","single","single_between_skewed_e000",224668000,300,"design=between; variant=skewed; effect=0; B=199",60,60
+"single_between_skewed_e040","single","single_between_skewed_e040",225196000,200,"design=between; variant=skewed; effect=0.04; B=199",40,40
+"single_between_trial_ar_e000","single","single_between_trial_ar_e000",877196000,300,"design=between; variant=trial_ar; effect=0; B=199",60,60
+"single_between_trial_ar_e040","single","single_between_trial_ar_e040",877724000,200,"design=between; variant=trial_ar; effect=0.04; B=199",40,40
+"single_between_unbalanced_e000","single","single_between_unbalanced_e000",1938452000,300,"design=between; variant=unbalanced; effect=0; B=199",60,60
+"single_between_unbalanced_e040","single","single_between_unbalanced_e040",1938980000,200,"design=between; variant=unbalanced; effect=0.04; B=199",40,40
+"single_mixed_base_e000","single","single_mixed_base_e000",1429952000,500,"design=mixed; variant=base; effect=0; B=199",100,100
+"single_mixed_base_e025","single","single_mixed_base_e025",1430236000,200,"design=mixed; variant=base; effect=0.025; B=199",40,40
+"single_mixed_base_e050","single","single_mixed_base_e050",1430612000,200,"design=mixed; variant=base; effect=0.05; B=199",40,40
+"single_mixed_base_e075","single","single_mixed_base_e075",1430896000,200,"design=mixed; variant=base; effect=0.075; B=199",40,40
+"single_mixed_n12_e000","single","single_mixed_n12_e000",1824512000,300,"design=mixed; variant=n12; effect=0; B=199",60,60
+"single_mixed_n12_e050","single","single_mixed_n12_e050",1825172000,200,"design=mixed; variant=n12; effect=0.05; B=199",40,40
+"single_mixed_n60_e000","single","single_mixed_n60_e000",1641460000,300,"design=mixed; variant=n60; effect=0; B=199",60,60
+"single_mixed_n60_e050","single","single_mixed_n60_e050",1642120000,200,"design=mixed; variant=n60; effect=0.05; B=199",40,40
+"single_mixed_ar05_e000","single","single_mixed_ar05_e000",1129012000,300,"design=mixed; variant=ar05; effect=0; B=199",60,60
+"single_mixed_ar05_e050","single","single_mixed_ar05_e050",1129672000,200,"design=mixed; variant=ar05; effect=0.05; B=199",40,40
+"single_mixed_normal_e000","single","single_mixed_normal_e000",351192000,300,"design=mixed; variant=normal; effect=0; B=199",60,60
+"single_mixed_normal_e050","single","single_mixed_normal_e050",351852000,200,"design=mixed; variant=normal; effect=0.05; B=199",40,40
+"single_mixed_balanced_e000","single","single_mixed_balanced_e000",700360000,300,"design=mixed; variant=balanced; effect=0; B=199",60,60
+"single_mixed_balanced_e050","single","single_mixed_balanced_e050",701020000,200,"design=mixed; variant=balanced; effect=0.05; B=199",40,40
+"single_mixed_skewed_e000","single","single_mixed_skewed_e000",1031736000,300,"design=mixed; variant=skewed; effect=0; B=199",60,60
+"single_mixed_skewed_e050","single","single_mixed_skewed_e050",1032396000,200,"design=mixed; variant=skewed; effect=0.05; B=199",40,40
+"single_mixed_trial_ar_e000","single","single_mixed_trial_ar_e000",1758444000,300,"design=mixed; variant=trial_ar; effect=0; B=199",60,60
+"single_mixed_trial_ar_e050","single","single_mixed_trial_ar_e050",1759104000,200,"design=mixed; variant=trial_ar; effect=0.05; B=199",40,40
+"single_mixed_unbalanced_e000","single","single_mixed_unbalanced_e000",1600244000,300,"design=mixed; variant=unbalanced; effect=0; B=199",60,60
+"single_mixed_unbalanced_e050","single","single_mixed_unbalanced_e050",1600904000,200,"design=mixed; variant=unbalanced; effect=0.05; B=199",40,40
+"single_covariate_base_e000","single","single_covariate_base_e000",172904000,500,"design=covariate; variant=base; effect=0; B=199",100,100
+"single_covariate_base_e015","single","single_covariate_base_e015",173056000,200,"design=covariate; variant=base; effect=0.015; B=199",40,40
+"single_covariate_base_e030","single","single_covariate_base_e030",173300000,200,"design=covariate; variant=base; effect=0.03; B=199",40,40
+"single_covariate_base_e045","single","single_covariate_base_e045",173452000,200,"design=covariate; variant=base; effect=0.045; B=199",40,40
+"single_covariate_n12_e000","single","single_covariate_n12_e000",331848000,300,"design=covariate; variant=n12; effect=0; B=199",60,60
+"single_covariate_n12_e030","single","single_covariate_n12_e030",332244000,200,"design=covariate; variant=n12; effect=0.03; B=199",40,40
+"single_covariate_skewed_e000","single","single_covariate_skewed_e000",131088000,300,"design=covariate; variant=skewed; effect=0; B=199",60,60
+"single_covariate_skewed_e030","single","single_covariate_skewed_e030",131484000,200,"design=covariate; variant=skewed; effect=0.03; B=199",40,40
+"single_covariate_trial_ar_e000","single","single_covariate_trial_ar_e000",970412000,300,"design=covariate; variant=trial_ar; effect=0; B=199",60,60
+"single_covariate_trial_ar_e030","single","single_covariate_trial_ar_e030",970808000,200,"design=covariate; variant=trial_ar; effect=0.03; B=199",40,40
+"single_biomarker_base_e000","single","single_biomarker_base_e000",268496000,500,"design=biomarker; variant=base; effect=0; B=199",100,100
+"single_biomarker_base_e015","single","single_biomarker_base_e015",268648000,200,"design=biomarker; variant=base; effect=0.015; B=199",40,40
+"single_biomarker_base_e030","single","single_biomarker_base_e030",268892000,200,"design=biomarker; variant=base; effect=0.03; B=199",40,40
+"single_biomarker_n12_e000","single","single_biomarker_n12_e000",1243852000,300,"design=biomarker; variant=n12; effect=0; B=199",60,60
+"single_biomarker_n12_e015","single","single_biomarker_n12_e015",1244004000,200,"design=biomarker; variant=n12; effect=0.015; B=199",40,40
+"single_three_level_base_e000","single","single_three_level_base_e000",1121116000,500,"design=three_level; variant=base; effect=0; B=199",100,100
+"single_three_level_base_e015","single","single_three_level_base_e015",1121268000,200,"design=three_level; variant=base; effect=0.015; B=199",40,40
+"single_three_level_base_e030","single","single_three_level_base_e030",1121512000,200,"design=three_level; variant=base; effect=0.03; B=199",40,40
+"tc_base_e000","timecourse","tc_base_e000",972092000,500,"variant=base; effect=0; B=199; B_cluster=999; full_perm=TRUE",100,100
+"tc_base_e020","timecourse","tc_base_e020",972356000,200,"variant=base; effect=0.02; B=199; B_cluster=999; full_perm=TRUE",40,40
+"tc_base_e040","timecourse","tc_base_e040",972620000,200,"variant=base; effect=0.04; B=199; B_cluster=999; full_perm=TRUE",40,40
+"tc_base_e060","timecourse","tc_base_e060",972884000,200,"variant=base; effect=0.06; B=199; B_cluster=999; full_perm=TRUE",40,40
+"tc_n12_e000","timecourse","tc_n12_e000",1628816000,300,"variant=n12; effect=0; B=199; B_cluster=999; full_perm=FALSE",60,60
+"tc_n12_e040","timecourse","tc_n12_e040",1629344000,200,"variant=n12; effect=0.04; B=199; B_cluster=999; full_perm=FALSE",40,40
+"tc_n60_e000","timecourse","tc_n60_e000",1445764000,300,"variant=n60; effect=0; B=199; B_cluster=999; full_perm=FALSE",60,60
+"tc_n60_e040","timecourse","tc_n60_e040",1446292000,200,"variant=n60; effect=0.04; B=199; B_cluster=999; full_perm=FALSE",40,40
+"tc_ar05_e000","timecourse","tc_ar05_e000",671152000,300,"variant=ar05; effect=0; B=199; B_cluster=999; full_perm=FALSE",60,60
+"tc_ar05_e040","timecourse","tc_ar05_e040",671680000,200,"variant=ar05; effect=0.04; B=199; B_cluster=999; full_perm=FALSE",40,40
+"tc_normal_e000","timecourse","tc_normal_e000",1750652000,300,"variant=normal; effect=0; B=199; B_cluster=999; full_perm=FALSE",60,60
+"tc_normal_e040","timecourse","tc_normal_e040",1751180000,200,"variant=normal; effect=0.04; B=199; B_cluster=999; full_perm=FALSE",40,40
+"tc_balanced_e000","timecourse","tc_balanced_e000",684868000,300,"variant=balanced; effect=0; B=199; B_cluster=999; full_perm=FALSE",60,60
+"tc_balanced_e040","timecourse","tc_balanced_e040",685396000,200,"variant=balanced; effect=0.04; B=199; B_cluster=999; full_perm=FALSE",40,40
+"tc_sparse_e000","timecourse","tc_sparse_e000",1709200000,300,"variant=sparse; effect=0; B=199; B_cluster=999; full_perm=FALSE",60,60
+"tc_sparse_e040","timecourse","tc_sparse_e040",1709728000,200,"variant=sparse; effect=0.04; B=199; B_cluster=999; full_perm=FALSE",40,40
+"tc_skewed_e000","timecourse","tc_skewed_e000",431160000,300,"variant=skewed; effect=0; B=199; B_cluster=999; full_perm=FALSE",60,60
+"tc_skewed_e040","timecourse","tc_skewed_e040",431688000,200,"variant=skewed; effect=0.04; B=199; B_cluster=999; full_perm=FALSE",40,40
+"tc_trial_ar_e000","timecourse","tc_trial_ar_e000",1742952000,300,"variant=trial_ar; effect=0; B=199; B_cluster=999; full_perm=FALSE",60,60
+"tc_trial_ar_e040","timecourse","tc_trial_ar_e040",1743480000,200,"variant=trial_ar; effect=0.04; B=199; B_cluster=999; full_perm=FALSE",40,40
+"tc_gaps_interp_e000","timecourse","tc_gaps_interp_e000",1458628000,300,"variant=gaps_interp; effect=0; B=199; B_cluster=999; full_perm=FALSE",60,60
+"tc_gaps_interp_e040","timecourse","tc_gaps_interp_e040",1459156000,200,"variant=gaps_interp; effect=0.04; B=199; B_cluster=999; full_perm=FALSE",40,40
+"tc_gaps_removed_e000","timecourse","tc_gaps_removed_e000",1532080000,300,"variant=gaps_removed; effect=0; B=199; B_cluster=999; full_perm=FALSE",60,60
+"tc_gaps_removed_e040","timecourse","tc_gaps_removed_e040",1532608000,200,"variant=gaps_removed; effect=0.04; B=199; B_cluster=999; full_perm=FALSE",40,40
+"tc_ar_hetero_e000","timecourse","tc_ar_hetero_e000",867784000,300,"variant=ar_hetero; effect=0; B=199; B_cluster=999; full_perm=FALSE",60,60
+"tc_ar_hetero_e040","timecourse","tc_ar_hetero_e040",868312000,200,"variant=ar_hetero; effect=0.04; B=199; B_cluster=999; full_perm=FALSE",40,40
+"tc_real_res_e000","timecourse","tc_real_res_e000",160708000,300,"variant=real_res; effect=0; B=199; B_cluster=999; full_perm=FALSE",60,60
+"tc_real_res_e040","timecourse","tc_real_res_e040",161236000,200,"variant=real_res; effect=0.04; B=199; B_cluster=999; full_perm=FALSE",40,40
+"tcboot_base_e040","tc_boot","tc_base_e040",972620000,300,"variant=base; effect=0.04; B=999",60,60
+"triple_base_e000","triple","triple_base_e000",648052000,300,"variant=base; effect=0; B=199; B_cluster=999",60,60
+"triple_base_e040","triple","triple_base_e040",648580000,200,"variant=base; effect=0.04; B=199; B_cluster=999",40,40
+"triple_base_e080","triple","triple_base_e080",649108000,200,"variant=base; effect=0.08; B=199; B_cluster=999",40,40
+"triplefamily_base_e000","triple_family","triple_base_e000",648052000,500,"variant=base; effect=0; B=499",100,100
+"triplefamily_base_e080","triple_family","triple_base_e080",649108000,200,"variant=base; effect=0.08; B=499",40,40
+"tripleboot_base_e080","triple_boot","triple_base_e080",649108000,300,"variant=base; effect=0.08; B=999",60,60
+"triplesatt_base_e080","triple_satt","triple_base_e080",649108000,300,"variant=base; effect=0.08",60,60
+"triple_unbalanced_e000","triple","triple_unbalanced_e000",690448000,300,"variant=unbalanced; effect=0; B=199; B_cluster=999",60,60
+"triple_unbalanced_e040","triple","triple_unbalanced_e040",690976000,200,"variant=unbalanced; effect=0.04; B=199; B_cluster=999",40,40
+"triple_unbalanced_e080","triple","triple_unbalanced_e080",691504000,200,"variant=unbalanced; effect=0.08; B=199; B_cluster=999",40,40
+"triplefamily_unbalanced_e000","triple_family","triple_unbalanced_e000",690448000,500,"variant=unbalanced; effect=0; B=499",100,100
+"triplefamily_unbalanced_e080","triple_family","triple_unbalanced_e080",691504000,200,"variant=unbalanced; effect=0.08; B=499",40,40
+"tripleboot_unbalanced_e080","triple_boot","triple_unbalanced_e080",691504000,300,"variant=unbalanced; effect=0.08; B=999",60,60
+"triplesatt_unbalanced_e080","triple_satt","triple_unbalanced_e080",691504000,300,"variant=unbalanced; effect=0.08",60,60
+"bootwithin_n08_normal","boot_within","bootwithin_n08_normal",1534608000,500,"n=8; re=normal; B=1999",100,100
+"bootwithin_n08_skewed","boot_within","bootwithin_n08_skewed",1429348000,500,"n=8; re=skewed; B=1999",100,100
+"bootwithin_n15_normal","boot_within","bootwithin_n15_normal",637652000,500,"n=15; re=normal; B=1999",100,100
+"bootwithin_n15_skewed","boot_within","bootwithin_n15_skewed",532392000,500,"n=15; re=skewed; B=1999",100,100
+"bootwithin_n30_normal","boot_within","bootwithin_n30_normal",1547224000,500,"n=30; re=normal; B=1999",100,100
+"bootwithin_n30_skewed","boot_within","bootwithin_n30_skewed",1441964000,500,"n=30; re=skewed; B=1999",100,100
+"bootgroups_base_e050","boot_groups","bootgroups_base_e050",1667188000,500,"variant=base; effect=0.05; B=1999",100,100
+"bootgroups_unbalanced_e050","boot_groups","bootgroups_unbalanced_e050",388144000,500,"variant=unbalanced; effect=0.05; B=1999",100,100
+"bootgroups_n12_e050","boot_groups","bootgroups_n12_e050",1044448000,500,"variant=n12; effect=0.05; B=1999",100,100
+"gca_null","gca","gca_null",924828000,500,"scenario=null; effect=0; B=199; B_boot=999",100,100
+"gcamirman_null","gca_mirman","gca_null",924828000,500,"scenario=null; effect=0",100,100
+"gca_level","gca","gca_level",774732000,200,"scenario=level; effect=0.03; B=199; B_boot=999",40,40
+"gcamirman_level","gca_mirman","gca_level",774732000,200,"scenario=level; effect=0.03",40,40
+"gca_shape","gca","gca_shape",321100000,200,"scenario=shape; effect=0.025; B=199; B_boot=999",40,40
+"gcamirman_shape","gca_mirman","gca_shape",321100000,200,"scenario=shape; effect=0.025",40,40
+"gca_onset","gca","gca_onset",286192000,200,"scenario=onset; effect=0.03; B=199; B_boot=999",40,40
+"gcamirman_onset","gca_mirman","gca_onset",286192000,200,"scenario=onset; effect=0.03",40,40
+"posthoc_level_e000","posthoc","posthoc_level_e000",423836000,300,"design=level; effect=0; B=499",60,60
+"posthoc_level_e040","posthoc","posthoc_level_e040",424364000,200,"design=level; effect=0.04; B=499",40,40
+"posthoc_timecourse_e000","posthoc","posthoc_timecourse_e000",1965704000,300,"design=timecourse; effect=0; B=199",60,60
+"posthoc_timecourse_e050","posthoc","posthoc_timecourse_e050",1966364000,200,"design=timecourse; effect=0.05; B=199",40,40
+"family_k04_r00_e000","family","family_k04_r00_e000",66676000,500,"k=4; rho=0; effect=0; B=499",100,100
+"family_k04_r00_e200","family","family_k04_r00_e200",75388000,200,"k=4; rho=0; effect=0.2; B=499",40,40
+"family_k10_r00_e000","family","family_k10_r00_e000",1258112000,500,"k=10; rho=0; effect=0; B=499",100,100
+"family_k10_r00_e200","family","family_k10_r00_e200",1266824000,200,"k=10; rho=0; effect=0.2; B=499",40,40
+"family_k04_r05_e000","family","family_k04_r05_e000",760460000,500,"k=4; rho=0.5; effect=0; B=499",100,100
+"family_k04_r05_e200","family","family_k04_r05_e200",769172000,200,"k=4; rho=0.5; effect=0.2; B=499",40,40
+"family_k10_r05_e000","family","family_k10_r05_e000",1951896000,500,"k=10; rho=0.5; effect=0; B=499",100,100
+"family_k10_r05_e200","family","family_k10_r05_e200",1960608000,200,"k=10; rho=0.5; effect=0.2; B=499",40,40
+"family_k04_r08_e000","family","family_k04_r08_e000",376716000,500,"k=4; rho=0.8; effect=0; B=499",100,100
+"family_k04_r08_e200","family","family_k04_r08_e200",385428000,200,"k=4; rho=0.8; effect=0.2; B=499",40,40
+"family_k10_r08_e000","family","family_k10_r08_e000",1568152000,500,"k=10; rho=0.8; effect=0; B=499",100,100
+"family_k10_r08_e200","family","family_k10_r08_e200",1576864000,200,"k=10; rho=0.8; effect=0.2; B=499",40,40
+"diag_acf_ar500_t20","diag_acf","diag_acf_ar500_t20",1451116000,200,"ar1=0.5; n_time=20",40,40
+"diag_acf_ar800_t20","diag_acf","diag_acf_ar800_t20",787780000,200,"ar1=0.8; n_time=20",40,40
+"diag_acf_ar920_t20","diag_acf","diag_acf_ar920_t20",1644196000,200,"ar1=0.92; n_time=20",40,40
+"diag_acf_ar975_t20","diag_acf","diag_acf_ar975_t20",55932000,200,"ar1=0.975; n_time=20",40,40
+"diag_acf_ar500_t40","diag_acf","diag_acf_ar500_t40",1451380000,200,"ar1=0.5; n_time=40",40,40
+"diag_acf_ar800_t40","diag_acf","diag_acf_ar800_t40",788044000,200,"ar1=0.8; n_time=40",40,40
+"diag_acf_ar920_t40","diag_acf","diag_acf_ar920_t40",1644460000,200,"ar1=0.92; n_time=40",40,40
+"diag_acf_ar975_t40","diag_acf","diag_acf_ar975_t40",56196000,200,"ar1=0.975; n_time=40",40,40
+"diag_acf_ar500_t67","diag_acf","diag_acf_ar500_t67",1451672000,200,"ar1=0.5; n_time=67",40,40
+"diag_acf_ar800_t67","diag_acf","diag_acf_ar800_t67",788336000,200,"ar1=0.8; n_time=67",40,40
+"diag_acf_ar920_t67","diag_acf","diag_acf_ar920_t67",1644752000,200,"ar1=0.92; n_time=67",40,40
+"diag_acf_ar975_t67","diag_acf","diag_acf_ar975_t67",56488000,200,"ar1=0.975; n_time=67",40,40
+"diag_calibrate","diag_calibrate","diag_calibrate",1147128000,100,"n_sim=100; B=99",20,20
+"diag_timecourse_correct_e040","diag_timecourse","diag_timecourse_correct_e040",686916000,200,"scenario=correct; effect=0.04",40,40
+"diag_timecourse_misspecified_e040","diag_timecourse","diag_timecourse_misspecified_e040",1840208000,200,"scenario=misspecified; effect=0.04",40,40
+"diag_timecourse_correct_e080","diag_timecourse","diag_timecourse_correct_e080",687444000,200,"scenario=correct; effect=0.08",40,40
+"diag_timecourse_misspecified_e080","diag_timecourse","diag_timecourse_misspecified_e080",1840736000,200,"scenario=misspecified; effect=0.08",40,40
+"diag_loso_size0","diag_loso","diag_loso_size0",1112464000,200,"size=0",40,40
+"diag_loso_size3","diag_loso","diag_loso_size3",1112476000,200,"size=3",40,40
+"diag_loso_size6","diag_loso","diag_loso_size6",1112488000,200,"size=6",40,40
+"diag_agreement_no_confound","diag_agreement","diag_agreement_no_confound",1907768000,200,"scenario=no_confound",40,40
+"diag_agreement_confound","diag_agreement","diag_agreement_confound",549664000,200,"scenario=confound",40,40

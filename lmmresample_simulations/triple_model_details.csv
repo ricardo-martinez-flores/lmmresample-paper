@@ -1,0 +1,7 @@
+"design","variant","effect","complete_singular_pct","gamm_rho_mean","gamm_rho_sd"
+"triple","base",0,92.3,0.93,0.002
+"triple","unbalanced",0,92.3,0.93,0.002
+"triple","base",0.04,95.5,0.93,0.002
+"triple","unbalanced",0.04,95,0.93,0.002
+"triple","base",0.08,94,0.93,0.001
+"triple","unbalanced",0.08,93,0.93,0.002

@@ -1,0 +1,46 @@
+"analysis","term","method","p","seconds","error","note"
+"stimulus_x_time",NA,"perm_simple",2e-04,1383.1,NA,NA
+"stimulus_x_time",NA,"wald_simple",0,0,NA,NA
+"stimulus_x_time",NA,"wald_full",0,0,NA,NA
+"stimulus_x_time",NA,"satt_full",0,9.5,NA,NA
+"stimulus_x_time",NA,"perm_full",2e-04,4191.3,NA,NA
+"stimulus_x_time",NA,"wald_trial",0,12.6,NA,NA
+"stimulus_x_time",NA,"wald_complete",1.84485104474359e-23,434.8,NA,"singular: FALSE"
+"stimulus_x_time",NA,"two_stage",1.80067000346249e-13,0.3,NA,NA
+"stimulus_x_time",NA,"cluster",2e-04,NA,NA,"0.48-2.00 s (p = 0.0002)"
+"stimulus_x_time",NA,"gamm_noar",0,NA,NA,NA
+"stimulus_x_time",NA,"gamm_ar1",0,NA,NA,"rho = 0.986"
+"stimulus_x_time_df5",NA,"perm_simple",2e-04,1697.3,NA,NA
+"stimulus_x_time_df5",NA,"wald_simple",0,0,NA,NA
+"stimulus_x_time_seed2",NA,"perm_simple",2e-04,1323.5,NA,NA
+"stimulus_x_time_seed2",NA,"wald_simple",0,0,NA,NA
+"cohort_x_stimulus_x_time",NA,"perm_simple",0.9122,2055.5,NA,NA
+"cohort_x_stimulus_x_time",NA,"wald_simple",0.000693199639363769,0,NA,NA
+"cohort_x_stimulus_x_time",NA,"wald_full",0.000534789277130075,0,NA,NA
+"cohort_x_stimulus_x_time",NA,"satt_full",0.000534881541451671,16.3,NA,NA
+"cohort_x_stimulus_x_time",NA,"perm_full",0.9122,5987.8,NA,NA
+"cohort_x_stimulus_x_time",NA,"wald_complete",0.862128397117355,697.2,NA,"singular: FALSE"
+"cohort_x_stimulus_x_time",NA,"two_stage",0.895333473847652,0.3,NA,NA
+"cohort_x_stimulus_x_time",NA,"cluster",1,NA,NA,""
+"cohort_x_stimulus_x_time",NA,"gamm_noar",0.866178596483748,NA,NA,NA
+"cohort_x_stimulus_x_time",NA,"gamm_ar1",0.00041534090944112,NA,NA,"rho = 0.986"
+"gca","level","wald_gca",6.46434076824215e-119,NA,NA,"singular: FALSE"
+"gca","linear","wald_gca",0,NA,NA,"singular: FALSE"
+"gca","quadratic","wald_gca",2.42998808576781e-181,NA,NA,"singular: FALSE"
+"gca","cubic","wald_gca",0,NA,NA,"singular: FALSE"
+"gca","level","wald_mirman",2.84572497913726e-21,NA,NA,"singular: TRUE"
+"gca","linear","wald_mirman",1.71916151504648e-25,NA,NA,"singular: TRUE"
+"gca","quadratic","wald_mirman",2.34960308753061e-05,NA,NA,"singular: TRUE"
+"gca","cubic","wald_mirman",3.16330275298689e-18,NA,NA,"singular: TRUE"
+"gca","level","wald_simple",0,NA,NA,NA
+"gca","linear","wald_simple",0,NA,NA,NA
+"gca","quadratic","wald_simple",6.29342625052183e-93,NA,NA,NA
+"gca","cubic","wald_simple",2.15352595086076e-193,NA,NA,NA
+"gca","level","perm_simple",2e-04,NA,NA,NA
+"gca","linear","perm_simple",2e-04,NA,NA,NA
+"gca","quadratic","perm_simple",4e-04,NA,NA,NA
+"gca","cubic","perm_simple",2e-04,NA,NA,NA
+"gca","level","two_stage",7.69090938010135e-14,NA,NA,NA
+"gca","linear","two_stage",7.4886308362392e-13,NA,NA,NA
+"gca","quadratic","two_stage",0.000132587631684638,NA,NA,NA
+"gca","cubic","two_stage",3.87025478682047e-11,NA,NA,NA

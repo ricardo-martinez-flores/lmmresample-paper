@@ -1,0 +1,31 @@
+{
+  "title": "lmmresample: Valid inference for mixed models of trial-structured physiological data. A tutorial (code and results)",
+  "upload_type": "software",
+  "description": "<p>Code and results that reproduce the simulation study, the analysis of the pupillometry data set and the figures of the article presenting the R package lmmresample, which provides permutation and bootstrap inference for linear mixed models of trial-structured, densely sampled physiological data.</p>",
+  "creators": [
+    {
+      "name": "Martínez-Flores, Ricardo",
+      "orcid": "0000-0002-8435-2710",
+      "affiliation": "Institute of Neurosciences (UBneuro), University of Barcelona"
+    },
+    {
+      "name": "Supèr, Hans",
+      "orcid": "0000-0001-9328-0096",
+      "affiliation": "Catalan Institution for Research and Advanced Studies (ICREA); Institute of Neurosciences (UBneuro), University of Barcelona"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["linear mixed models", "permutation tests", "bootstrap", "autocorrelation", "pupillometry", "R"],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ricardo-martinez-flores/lmmresample",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "10.5281/zenodo.23160276",
+      "relation": "references",
+      "resource_type": "dataset"
+    }
+  ]
+}

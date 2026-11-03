@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the article and the package."
+title: "lmmresample: Valid inference for mixed models of trial-structured physiological data. A tutorial (code and results)"
+type: software
+license: MIT
+repository-code: "https://github.com/ricardo-martinez-flores/lmmresample-paper"
+authors:
+  - family-names: "Martínez-Flores"
+    given-names: "Ricardo"
+    orcid: "https://orcid.org/0000-0002-8435-2710"
+    affiliation: "Institute of Neurosciences (UBneuro), University of Barcelona"
+  - family-names: "Supèr"
+    given-names: "Hans"
+    orcid: "https://orcid.org/0000-0001-9328-0096"
+    affiliation: "Catalan Institution for Research and Advanced Studies (ICREA); Institute of Neurosciences (UBneuro), University of Barcelona"
+keywords:
+  - linear mixed models
+  - permutation tests
+  - bootstrap
+  - autocorrelation
+  - pupillometry
+  - R

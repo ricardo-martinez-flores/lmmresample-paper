@@ -1,0 +1,4 @@
+"test","n","true_rate_pct","true_ci_low","true_ci_high","predicted_mean_pct","predicted_p10_pct","predicted_p90_pct"
+"perm_samples",100,44,34.08,54.28,47.42,41.9,53
+"perm_trials",100,3,0.62,8.52,5.34,3,8
+"wald",100,44,34.08,54.28,48.18,41.9,54.1

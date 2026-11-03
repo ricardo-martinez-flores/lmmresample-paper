@@ -1,0 +1,6 @@
+"check","value"
+"autocorrelation lag 1 (bias-corrected)",0.9589
+"autocorrelation lag 1 (uncorrected)",0.9516
+"time-course misfit, spline model: largest |z|",1.7461
+"time-course misfit, constant-effect model: largest |z|",8.3611
+"time-course misfit threshold (Bonferroni, 2 x 67 points)",3.5584

@@ -1,0 +1,7 @@
+"analysis","test","rate","low","high","n","B"
+"stimulus_x_time","permutation, intercept-only model",5.1,3.82052367746862,6.65134615949348,1000,99
+"stimulus_x_time","Wald, intercept-only model",79.7,77.0711676741859,82.1526423675984,1000,99
+"gca_level","permutation, GCA model",7,2.86052889074387,13.8919728455857,100,19
+"gca_level","Wald, GCA model",8,3.51715625181628,15.1557635864421,100,19
+"gca_linear","permutation, GCA model",6,2.23348860713164,12.6029934580823,100,19
+"gca_linear","Wald, GCA model",79,69.7084620649459,86.5056304294671,100,19

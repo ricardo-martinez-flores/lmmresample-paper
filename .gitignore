@@ -1,0 +1,12 @@
+# Intermediate objects are not shared
+*.rds
+objects/
+*.zip
+progress.log
+# Local data and outputs
+data/*.csv
+data/*.csv.gz
+figures/
+.Rhistory
+.RData
+.DS_Store

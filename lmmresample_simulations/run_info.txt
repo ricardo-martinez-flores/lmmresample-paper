@@ -1,0 +1,13 @@
+Finished: 2026-10-29 08:49:36
+lmmresample 0.0.0.9005 commit 7219851eae33c0d26a7a7681306f82128ef38038
+lme4 2.0.6
+lmerTest 3.2.1
+mgcv 1.9.4
+R R version 4.6.1 (2026-06-24)
+Platform: x86_64-pc-linux-gnu
+Workers: 30
+Parts: example, single, timecourse, triple, bootstrap, gca, families, posthoc, diagnostics, timing
+Test run: FALSE
+Replicates: null_base = 500; null_within = 1000; null = 300; effect = 200; boot = 500; boot_tc = 300; family_null = 500; family_effect = 200; diag = 200; calibrate = 100
+Resamples: perm = 199; cluster = 999; family = 499; boot = 1999; boot_tc = 999; boot_gca = 999; example = 4999; calibrate = 99; calibrate_sims = 100
+Replicates per file: 5

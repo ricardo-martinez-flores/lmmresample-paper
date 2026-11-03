@@ -1,0 +1,5 @@
+"design","variant","effect","n_significant","median_onset_s","p10_onset_s","p90_onset_s","pct_onset_before_0.3s"
+"triple","base",0.04,62,0.5,0.31,1.1,6.5
+"triple","unbalanced",0.04,69,0.6,0.3,1.1,7.2
+"triple","base",0.08,158,0.5,0.4,0.7,2.5
+"triple","unbalanced",0.08,160,0.5,0.4,1,2.5

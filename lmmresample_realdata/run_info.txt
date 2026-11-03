@@ -1,0 +1,8 @@
+Finished: 2026-11-03 17:12:39
+lmmresample 0.0.0.9005 7219851eae33c0d26a7a7681306f82128ef38038
+lme4 2.1.0
+mgcv 1.9.4
+R R version 4.6.2 (2026-10-29)
+B = 4999; perm_calibrate: 1000 simulations x B = 99
+perm_calibrate (GCA): 100 simulations x B = 19
+Workers: 60
