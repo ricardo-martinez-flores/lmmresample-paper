@@ -3,6 +3,7 @@ message: "If you use this code or these results, please cite the article and the
 title: "lmmresample: Valid inference for mixed models of trial-structured physiological data. A tutorial (code and results)"
 type: software
 license: MIT
+doi: "10.5281/zenodo.23943062"
 repository-code: "https://github.com/ricardo-martinez-flores/lmmresample-paper"
 authors:
   - family-names: "Martínez-Flores"

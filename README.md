@@ -1,5 +1,7 @@
 # Code and results for the lmmresample article
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23943062.svg)](https://doi.org/10.5281/zenodo.23943062)
+
 Code and results that reproduce the simulation study, the analysis of the
 pupillometry data set and the figures of the article
 
@@ -101,8 +103,9 @@ depend on the number of sessions.
 
 ## Citation
 
-Please cite the article and the package. Citation metadata for this
-repository are in `CITATION.cff`.
+Please cite the article and the package. This repository is archived on
+Zenodo: https://doi.org/10.5281/zenodo.23943062. Citation metadata are in
+`CITATION.cff`.
 
 ## License
 
