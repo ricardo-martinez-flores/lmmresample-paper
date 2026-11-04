@@ -63,10 +63,10 @@ async function concept() {
           { text: " / ", options: {} },
           { text: "B", options: { bold: true, color: "E6550D" } }],
       { x: 0.3, y: top + 1.05, w: 1.3, h: 0.2, fontSize: 8, align: "center" });
-  s.addImage({ path: path.join(IMG, "series.png"), x: 0.3, y: top + 1.35,
-    w: 1.3, h: 0.72, objectName: "img-series" });
+  s.addImage({ path: path.join(IMG, "series_concept.png"), x: 0.23, y: 1.863,
+    w: 1.44, h: 1.03, objectName: "img-series" });
   txt(s, "Participants (rows) complete trials (squares); each trial is a series of correlated samples",
-      { x: 0.3, y: top + 2.2, w: 1.3, h: 0.8, fontSize: 8, italic: true, color: MUTED });
+      { x: 0.3, y: 2.928, w: 1.3, h: 0.7, fontSize: 8, italic: true, color: MUTED });
 
   arrow(s, 1.72, top + H / 2, 1.93, top + H / 2, "arr-1");
 
@@ -135,23 +135,23 @@ async function workflow() {
           { text: "The problem", options: { bold: true, fontSize: 11 } }],
       { x: 0.2, y: 0.15, w: 4, h: 0.3 });
   box(s, 0.25, 0.55, 2.5, 1.65, "a-data");
-  s.addImage({ path: path.join(IMG, "series.png"), x: 0.35, y: 0.62, w: 2.3, h: 1.08,
-    sizing: { type: "contain", w: 2.3, h: 1.08 }, objectName: "a-img" });
+  s.addImage({ path: path.join(IMG, "series_workflow.png"), x: 0.46, y: 0.6, w: 2.08, h: 1.24,
+    objectName: "a-img" });
   txt(s, [{ text: "Densely sampled trials", options: { bold: true, breakLine: true } },
           { text: "e.g. 67 samples per trial at 33 Hz", options: { italic: true } }],
-      { x: 0.3, y: 1.74, w: 2.4, h: 0.42, fontSize: 9, align: "center" });
+      { x: 0.3, y: 1.85, w: 2.4, h: 0.34, fontSize: 9, align: "center" });
   arrow(s, 2.79, 1.37, 3.01, 1.37, "a-arr1");
   box(s, 3.05, 0.55, 1.85, 1.65, "a-model");
   txt(s, "Usual mixed-model tests", { x: 3.1, y: 0.62, w: 1.75, h: 0.2, fontSize: 9, bold: true, align: "center" });
-  s.addImage({ path: path.join(IMG, "problem_dependence.png"), x: 3.15, y: 0.86, w: 1.65, h: 0.85,
-    sizing: { type: "contain", w: 1.65, h: 0.85 }, objectName: "a-dep" });
+  s.addImage({ path: path.join(IMG, "problem_dependence.png"), x: 3.125, y: 0.84, w: 1.70, h: 0.95,
+    objectName: "a-dep" });
   txt(s, "Wald and Satterthwaite tests treat correlated samples as nearly independent",
-      { x: 3.1, y: 1.74, w: 1.75, h: 0.42, fontSize: 7.5, italic: true, align: "center" });
+      { x: 3.1, y: 1.84, w: 1.75, h: 0.34, fontSize: 7.5, italic: true, align: "center" });
   arrow(s, 4.94, 1.37, 5.11, 1.37, "a-arr2");
   box(s, 5.15, 0.55, 1.85, 1.65, "a-result", "FDF0E6");
   txt(s, "Condition × time effect", { x: 5.2, y: 0.62, w: 1.75, h: 0.2, fontSize: 9, bold: true, align: "center" });
-  s.addImage({ path: path.join(IMG, "problem_result.png"), x: 5.25, y: 0.86, w: 1.65, h: 1.0,
-    sizing: { type: "contain", w: 1.65, h: 1.0 }, objectName: "a-res" });
+  s.addImage({ path: path.join(IMG, "problem_result.png"), x: 5.18, y: 0.84, w: 1.79, h: 1.0,
+    objectName: "a-res" });
   txt(s, "Simulated data with no true effect (false positives) and with a known effect (coverage)",
       { x: 5.2, y: 1.86, w: 1.75, h: 0.32, fontSize: 6.5, italic: true, color: MUTED, align: "center" });
 
@@ -177,8 +177,8 @@ async function workflow() {
         { x, y, w: W, h: 0.27, objectName: `p${p[0]}-title` });
     txt(s, p[2], { x, y: y + 0.28, w: W, h: 0.22, fontSize: 8.5, italic: true, bold: true });
     txt(s, p[3], { x, y: y + 0.5, w: W, h: 0.2, fontSize: 8, fontFace: MONO, color: MUTED });
-    s.addImage({ path: path.join(IMG, p[4]), x: x + 0.02, y: y + 0.78, w: W - 0.04,
-      h: 1.6, sizing: { type: "contain", w: W - 0.04, h: 1.6 }, objectName: `p${p[0]}-img` });
+    s.addImage({ path: path.join(IMG, p[4]), x: x + 0.02, y: y + 0.78, w: 1.91,
+      h: 1.6, objectName: `p${p[0]}-img` });
     if (k % 3 < 2) arrow(s, x + W + 0.05, y + 1.5, x + W + 0.38, y + 1.5, `p${p[0]}-arr`);
   });
   txt(s, "Schematic illustrations; results for the real data are shown in Figures 9–11.",
